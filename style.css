@@ -1,0 +1,64 @@
+.Class{
+    color: #68217a;
+
+}
+
+.day{
+    background: yellow;
+}
+
+.saturday{
+background:#f6b93b;
+}
+.sunday{
+    background: #ff3f34;
+}
+.monday{
+    background: #0fbcf9;
+}
+.tuesday{
+    background: #2ed573;
+}
+.am{
+    background: #ff6b81;
+}
+    
+    
+.thursday{
+    background: rgb(190, 224, 239);
+}
+.sir{
+    background: #ffcccc;
+}
+.room-no{
+    background: #c4e538;
+}
+.course102no{
+    background: #8e4abe;
+}
+.course103{
+    background: rgb(42, 8, 234);
+}
+.course104{
+    background: #008000;
+}
+.course106{
+    background: #ffa500;
+}
+.h3{
+    color:red
+}
+.wednesday{
+    background: #d980fa;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background: #45d76a;
+}
+.p{
+    text-align: center;
+    background: #d2d2d2;
+    color: blueviolet
+    
+}
