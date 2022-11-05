@@ -57,13 +57,11 @@ background:#f6b93b;
     background: #45d76a;
 }
 .p{
-    text-align: center;
-    font-size: 27px;
-    background: #d2d2d2;
-    color: blueviolet
+   color: #4c10c6; background-color: #d2d2d2;
+   text-align: center;
+   font: size 27px;
     
 }
-
 table{
     text-align: center;
 }
